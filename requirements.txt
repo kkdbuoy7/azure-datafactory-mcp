@@ -1,0 +1,5 @@
+mcp[cli]
+azure-identity
+azure-mgmt-datafactory
+azure-mgmt-resource
+python-dotenv
